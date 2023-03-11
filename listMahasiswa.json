@@ -1,0 +1,30 @@
+{
+  "mahasiswa": [
+    {
+      "NIM": 2041720061,
+      "nama": "Siti Aisyah",
+      "alamat": "Jl. Kembang Turi No 17",
+      "hp": "083857129219",
+      "angkatan": 2020,
+      "status": "aktif"
+    },
+    {
+      "NIM": 2041720022,
+      "nama": "Nanda Fajar Rijekki",
+      "alamat": "Jl. Senggani No. 6B Malang",
+      "hp": "081376746534",
+      "angkatan": 2020,
+      "status": "aktif"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
